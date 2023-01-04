@@ -1,0 +1,25 @@
+this is the first file
+git init
+( initislises empty git repository or folder)
+
+git add
+(staging stage)
+
+
+git commit
+(saving)
+
+
+git status
+(on which branch we are in
+ how many commits happened
+ it tracts the files)
+
+git log
+ (author name
+ date
+ hash codeclear
+ pointer
+ message)
+ git remote
+ 
